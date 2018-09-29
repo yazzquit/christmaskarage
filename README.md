@@ -1,4 +1,4 @@
 #Christmas Karage
 
-This is a school project
-a game about chicken racing to be the best Christmas Karage
+This is a game project
+about chickens racing to be the best Christmas Karage
